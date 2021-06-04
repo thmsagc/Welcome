@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to my Github
 
-You can use the [editor on GitHub](https://github.com/thmsagc/index/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here you can find some code implementations from different areas of computing that I had the opportunity to work with.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Summary
 
-### Markdown
+1. [Data Ordering](https://github.com/thmsagc/dataordering)
+2. [Numerical Analysis](https://github.com/thmsagc/numericalanalysis)
+3. [Assembly Implementations](https://github.com/thmsagc/Assembly)
+4. [Rasterization with Bresenham Algorithm](https://github.com/thmsagc/rasterization)
+5. [Web Development with Spring](https://github.com/thmsagc/spring)
+6. [Machine Learning](https://github.com/thmsagc/machinelearning)
+7. [Parallel Programming with OpenMP](https://github.com/thmsagc/computerarchitecture)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thmsagc/index/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
